@@ -1,0 +1,52 @@
+{
+    "videoProjects": [
+    {
+      "id": 1,
+      "title": "Promotional Video",
+      "description": "Corporate brand story video with motion graphics",
+      "overview": "A visually compelling video that narrates the brand story with dynamic motion graphics.",
+      "keyFeatures": ["Motion Graphics", "Brand Storytelling", "High Production Quality"],
+      "tools": ["Premiere Pro", "After Effects", "DaVinci Resolve", "Audition"],
+      "role": "Video Producer",
+      "timeline": "Q3 2023",
+      "platform": "Video",
+      "link": "#",
+      "thumbnail": "https://i.pinimg.com/736x/fb/2b/77/fb2b77239c11021b59136ef052dbafaa.jpg",
+      "testimonial": "The promotional video perfectly captured our brand's essence.",
+      "testimonialAuthor": "Linda Green",
+      "testimonialRole": "Marketing Director"
+    },
+    {
+      "id": 2,
+      "title": "Tutorial Series",
+      "description": "Educational video series with animated explainers",
+      "overview": "An engaging tutorial series designed to educate users through animated explainers.",
+      "keyFeatures": ["Animated Explainers", "Clear Instruction", "Engaging Visuals"],
+      "tools": ["Final Cut Pro", "Motion", "Blender", "Photoshop"],
+      "role": "Video Editor",
+      "timeline": "Q2 2023",
+      "platform": "Video",
+      "link": "#",
+      "thumbnail": "https://coreldrawdesign.com/templates/486.png",
+      "testimonial": "This series made complex topics accessible and entertaining.",
+      "testimonialAuthor": "Mark Davis",
+      "testimonialRole": "Content Strategist"
+    },
+    {
+      "id": 3,
+      "title": "Short Film",
+      "description": "Cinematic narrative short film with color grading",
+      "overview": "A short film that delivers a compelling narrative enhanced by expert color grading.",
+      "keyFeatures": ["Cinematic Storytelling", "Expert Color Grading", "High Production Value"],
+      "tools": ["Premiere Pro", "DaVinci Resolve", "Audition", "Pro Tools"],
+      "role": "Film Director",
+      "timeline": "Q1 2023",
+      "platform": "Video",
+      "link": "#",
+      "thumbnail": "https://i.ytimg.com/vi/1tSRA0viEZ4/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLDlUV3rzCSB5_uDJtjYXJiOA6ep-A",
+      "testimonial": "The short film was a visual masterpiece with a strong narrative.",
+      "testimonialAuthor": "Rachel Adams",
+      "testimonialRole": "Film Critic"
+    }
+  ]
+}

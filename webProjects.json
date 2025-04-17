@@ -1,0 +1,52 @@
+{
+  "webProjects": [
+    {
+      "id": 1,
+      "title": "E-commerce Platform",
+      "description": "Full-stack shopping platform with payment integration and real-time analytics",
+      "overview": "A comprehensive online shopping experience built with modern technologies.",
+      "keyFeatures": ["Payment Integration", "Real-Time Analytics", "Responsive Design"],
+      "tech": ["React", "Node.js", "Stripe", "MongoDB"],
+      "role": "Full-stack Developer",
+      "timeline": "Q3 2023 - Present",
+      "platform": "Web Application",
+      "link": "https://placehold.co/",
+      "thumbnail": "https://user-images.githubusercontent.com/94324872/171922836-d64e39fe-a9b6-4043-938f-7ac41b5a0caa.png",
+      "testimonial": "This platform revolutionized our e-commerce strategy.",
+      "testimonialAuthor": "Jane Doe",
+      "testimonialRole": "CEO, ShopNow"
+    },
+    {
+      "id": 2,
+      "title": "Portfolio Showcase",
+      "description": "Modern interactive portfolio.",
+      "overview": "A sleek and interactive portfolio designed to showcase personal projects with engaging animations.",
+      "keyFeatures": ["Interactive Animations", "Responsive Layout", "Optimized Performance"],
+      "tech": ["Next.js", "Three.js", "Tailwind", "Framer"],
+      "role": "Frontend Developer",
+      "timeline": "Q1 2023 - Q2 2023",
+      "platform": "Web Application",
+      "link": "#",
+      "thumbnail": "https://i.ytimg.com/vi/A-ENjgtnqds/hq720.jpg?sqp=-oaymwE7CK4FEIIDSFryq4qpAy0IARUAAAAAGAElAADIQj0AgKJD8AEB-AHUBoAC4AOKAgwIABABGCwgNCh_MA8=&rs=AOn4CLAmKA9IQN5fDupw_0OJYrqIzYLwZg",
+      "testimonial": "A beautifully crafted portfolio that highlights creativity.",
+      "testimonialAuthor": "John Smith",
+      "testimonialRole": "Creative Director"
+    },
+    {
+      "id": 3,
+      "title": "Blogging Ecosystem",
+      "description": "Headless CMS blog platform with rich text editing and SEO optimization",
+      "overview": "A powerful blogging platform that streamlines content creation and enhances SEO capabilities.",
+      "keyFeatures": ["Rich Text Editing", "SEO Optimization", "Scalable Architecture"],
+      "tech": ["React", "GraphQL", "Sanity.io", "AWS"],
+      "role": "Backend Developer",
+      "timeline": "Q2 2023 - Q3 2023",
+      "platform": "Web Application",
+      "link": "https://example.com/blog",
+      "thumbnail": "https://cdn.prod.website-files.com/627a5f467d5ec9539d88f0bc/6728b6a7e9fb6e90903046ec_AI-writer.png",
+      "testimonial": "An innovative solution for modern content management.",
+      "testimonialAuthor": "Alice Johnson",
+      "testimonialRole": "Content Strategist"
+  }
+  ]
+}

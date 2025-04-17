@@ -1,0 +1,68 @@
+{
+    "uiProjects": [
+    {
+      "id": 1,
+      "title": "Mobile App Design",
+      "description": "User-centered mobile interface for fitness tracking application",
+      "overview": "A clean and intuitive mobile app design that encourages healthy living.",
+      "keyFeatures": ["User-Friendly Interface", "Seamless Navigation", "Modern Aesthetics"],
+      "tools": ["Figma", "Adobe XD", "ProtoPie", "Illustrator"],
+      "role": "UI/UX Designer",
+      "timeline": "Q4 2022 - Q1 2023",
+      "platform": "Mobile App",
+      "link": "#",
+      "thumbnail": "https://fiverr-res.cloudinary.com/images/t_main1,q_auto,f_auto,q_auto,f_auto/gigs/326588785/original/f64189622e62639beac78e6e189c2315981e25e8/do-mobile-app-ui-ux-design-in-figma.jpg",
+      "testimonial": "The design was sleek and intuitive, exceeding our expectations.",
+      "testimonialAuthor": "Emily Clark",
+      "testimonialRole": "Product Manager"
+    },
+    {
+      "id": 2,
+      "title": "Website Redesign",
+      "description": "Modern e-learning platform interface redesign",
+      "overview": "A redesign focusing on accessibility and modern design trends for educational platforms.",
+      "keyFeatures": ["Improved Accessibility", "Modern Aesthetics", "User-Centric Layout"],
+      "tools": ["Sketch", "InVision", "Photoshop", "After Effects"],
+      "role": "UI/UX Designer",
+      "timeline": "Q3 2022 - Q4 2022",
+      "platform": "Web Application",
+      "link": "#",
+      "thumbnail": "https://cdn.dribbble.com/userupload/6325207/file/original-a9044a5eb9e820c9c2952103580cc8dd.png",
+      "testimonial": "The redesign made the platform more user-friendly and visually appealing.",
+      "testimonialAuthor": "Michael Brown",
+      "testimonialRole": "Director of Education"
+    },
+    {
+      "id": 3,
+      "title": "Dashboard Interface",
+      "description": "Analytics dashboard with data visualization components",
+      "overview": "A comprehensive dashboard interface that displays analytics data in an easily digestible format.",
+      "keyFeatures": ["Data Visualization", "Real-Time Analytics", "Customizable Widgets"],
+      "tools": ["Figma", "Webflow", "Lottie", "Principle"],
+      "role": "UI/UX Designer",
+      "timeline": "Q2 2023",
+      "platform": "Web Application",
+      "link": "#",
+      "thumbnail": "https://cdn1.dronahq.com/wp-content/uploads/2024/07/dashboard_builder_main_image_2x-1.webp",
+      "testimonial": "This dashboard interface offers a clear and concise view of our data.",
+      "testimonialAuthor": "Sophia Lee",
+      "testimonialRole": "Data Analyst"
+    },
+    {
+      "id": 4,
+      "title": "Dashboard Interface",
+      "description": "Analytics dashboard with data visualization components",
+      "overview": "Another take on a dashboard design with enhanced interactivity.",
+      "keyFeatures": ["Interactive Charts", "User Customization", "Real-Time Updates"],
+      "tools": ["Figma", "Webflow", "Lottie", "Principle"],
+      "role": "UI/UX Designer",
+      "timeline": "Q1 2023",
+      "platform": "Web Application",
+      "link": "#",
+      "thumbnail": "https://miro.medium.com/v2/resize:fit:1400/1*rQ3d_dKG7V2JhX8SrUjs6g.png",
+      "testimonial": "The interactive elements on this dashboard are very engaging.",
+      "testimonialAuthor": "Oliver White",
+      "testimonialRole": "UX Researcher"
+    }
+  ]
+}

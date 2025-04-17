@@ -1,0 +1,68 @@
+{
+    "graphicProjects": [
+    {
+      "id": 1,
+      "title": "Logo Design",
+      "description": "Brand identity package for tech startup",
+      "overview": "A striking logo design that encapsulates the essence of a tech startup.",
+      "keyFeatures": ["Unique Design", "Versatile Branding", "Scalable Identity"],
+      "tools": ["Illustrator", "Photoshop", "Procreate", "InDesign"],
+      "role": "Graphic Designer",
+      "timeline": "Q2 2023",
+      "platform": "Print & Digital",
+      "link": "#",
+      "thumbnail": "https://res.cloudinary.com/upwork-cloud/image/upload/c_scale,w_1000/v1688571480/catalog/1676571300949966848/evirxr5nezzztpivwp6b.jpg",
+      "testimonial": "The logo design truly captured our brand's vision.",
+      "testimonialAuthor": "Karen Black",
+      "testimonialRole": "Founder, Tech Innovators"
+    },
+    {
+      "id": 2,
+      "title": "Brochure Design",
+      "description": "Tri-fold marketing brochure for real estate agency",
+      "overview": "A modern brochure design that effectively communicates the agency's services.",
+      "keyFeatures": ["Clean Layout", "Engaging Visuals", "Effective Messaging"],
+      "tools": ["InDesign", "Illustrator", "Photoshop", "Acrobat"],
+      "role": "Graphic Designer",
+      "timeline": "Q1 2023",
+      "platform": "Print",
+      "link": "#",
+      "thumbnail": "https://graphicsfamily.com/wp-content/uploads/2020/07/Real-Estate-Brochure-Design-Template-in-Photoshop-scaled.jpg",
+      "testimonial": "The brochure design greatly enhanced our marketing efforts.",
+      "testimonialAuthor": "David Wilson",
+      "testimonialRole": "Marketing Manager"
+    },
+    {
+      "id": 3,
+      "title": "Social Media Graphics",
+      "description": "Campaign visuals for social media marketing",
+      "overview": "A set of dynamic graphics designed to boost social media engagement.",
+      "keyFeatures": ["Vibrant Design", "Consistency", "Engagement Focus"],
+      "tools": ["Photoshop", "Illustrator", "Canva", "After Effects"],
+      "role": "Graphic Designer",
+      "timeline": "Q4 2022",
+      "platform": "Digital",
+      "link": "#",
+      "thumbnail": "https://coreldrawdesign.com/resources/previews/preview-abstract-minimal--digital-marketing-agency-poster-template-1670431526.jpg",
+      "testimonial": "The graphics were eye-catching and drove engagement across platforms.",
+      "testimonialAuthor": "Samantha Lee",
+      "testimonialRole": "Social Media Manager"
+    },
+    {
+      "id": 4,
+      "title": "Infographic Design",
+      "description": "Data visualization for annual report",
+      "overview": "An informative infographic that simplifies complex data into digestible visuals.",
+      "keyFeatures": ["Data-Driven", "Visual Storytelling", "Clarity"],
+      "tools": ["Illustrator", "Photoshop", "Canva", "Visme"],
+      "role": "Graphic Designer",
+      "timeline": "Q3 2022",
+      "platform": "Print & Digital",
+      "link": "#",
+      "thumbnail": "https://www.creativefabrica.com/wp-content/uploads/2020/09/Infographic-Design-Template-Graphics-Graphics-1.jpg",
+      "testimonial": "The infographic made our data accessible and engaging.",
+      "testimonialAuthor": "Michael Brown",
+      "testimonialRole": "Data Analyst"
+    }
+  ]
+}
